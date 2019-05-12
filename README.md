@@ -5,3 +5,6 @@ That is why I created this scraper to get the dates and add them to Google Calen
 The application uses the following dependencies:
 - Google Calendar API v3
 - Selenium Chrome Webdriver
+
+Handy links:
+- https://www.mijnafvalwijzer.nl/
